@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Create on 30.11.2017.
+ * Create on 30.11.2017
  */
 
 public class Base {
